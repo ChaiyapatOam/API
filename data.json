@@ -13,5 +13,10 @@
         "title":"Data Science With Python",
         "detail":"เรียนรู้ศาสตร์แห่งข้อมูล",
         "img_url":"https://cdn.pixabay.com/photo/2017/03/23/09/34/artificial-intelligence-2167835_960_720.jpg"
+    },
+     {
+        "title":"Hello World",
+        "detail":"Flower ",
+        "img_url":"https://cdn.pixabay.com/photo/2020/07/21/16/24/landscape-5426755_960_720.jpg"
     }
 ]
